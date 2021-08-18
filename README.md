@@ -1,2 +1,2 @@
 # The INTIA Plattform
-Can be found on portal.intia.de
+Can bee found on portal.intia.de
